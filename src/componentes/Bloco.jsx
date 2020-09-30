@@ -122,6 +122,7 @@ export const Bloco = () => {
             <RadioGroup row aria-label="algoritmo" name="algoritmo1" value={value} onChange={handleChange}>
               <FormControlLabel value="depthSearch" control={<Radio color="primary" />} label="Depth Search" />
               <FormControlLabel value="astar" control={<Radio color="primary" />} label="A Star Search" />
+              
             </RadioGroup>
           </FormControl>
         </div>
