@@ -1,6 +1,8 @@
 ## Instruções
 
-O projeto atual possui uma api armazenada no seguinte diretório: (https://github.com/jlmjunior/MazeAPI)
+O projeto atual possui uma api armazenada no seguinte diretório: https://github.com/jlmjunior/MazeAPI
+
+Importante manter o host, que se encontra em api.js, para api atualizado.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
