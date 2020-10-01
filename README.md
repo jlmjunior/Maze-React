@@ -1,8 +1,8 @@
 ## Instruções
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto atual possui uma api armazenada no seguinte diretório: (https://github.com/jlmjunior/MazeAPI)
 
-Dependence: MazeAPI
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
